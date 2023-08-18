@@ -1,0 +1,15 @@
+.contentContainer img {
+  width: 100%;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+b {
+  background: #fae102;
+  background: linear-gradient(to right, #fae102 16.6%, #3b3d37 0px);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

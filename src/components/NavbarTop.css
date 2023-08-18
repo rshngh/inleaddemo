@@ -1,0 +1,11 @@
+.navbarTop {
+  border-top: 5px solid #ffc000;
+  color: white;
+  background-color: #203864;
+  padding: 0.5rem 1rem;
+}
+
+.navbarTop img {
+  height: 1.5rem;
+  padding: 3px;
+}
